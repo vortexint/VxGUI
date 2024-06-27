@@ -1,0 +1,1 @@
+add_subdirectory(cglm EXCLUDE_FROM_ALL)
